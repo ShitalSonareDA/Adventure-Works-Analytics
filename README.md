@@ -39,6 +39,12 @@ This README provides an overview of the Adventure Works data analytics project, 
 
 The project includes comprehensive documentation detailing the methodologies used for data cleaning, transformation, and analysis. This documentation serves as a guide for replicating the analysis or extending it further.
 
+### Dashboard Files
+1. PowerBi Dashboard :
+2. Excel Dashboard : 
+
+
+
 ### Conclusion
 
 The Adventure Works Data Analytics Project aims to provide actionable insights that support strategic decision-making within the organization. By leveraging advanced analytics techniques and tools, this project seeks to enhance understanding of customer behavior and improve overall business performance.
