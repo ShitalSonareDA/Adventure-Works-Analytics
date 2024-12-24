@@ -40,8 +40,10 @@ This README provides an overview of the Adventure Works data analytics project, 
 The project includes comprehensive documentation detailing the methodologies used for data cleaning, transformation, and analysis. This documentation serves as a guide for replicating the analysis or extending it further.
 
 ### Dashboard Files
-1. PowerBi Dashboard :
-2. Excel Dashboard : 
+1. PowerBi Dashboard :https://1drv.ms/u/c/b74c185066786944/EU_51mpxAFJCq0GX9VHlWlMBOGcfYcnps5V2KBuu0r3bFg?e=najsuq
+2. Excel Dashboard :https://1drv.ms/x/c/b74c185066786944/EfQd2odBfoFLmCL-8cjhLRIB5fIG48ExLgCqQKhztpzMLg?e=wizoO3
+3. Tableau Dashboard :https://1drv.ms/u/c/b74c185066786944/ER13FymiFnZJjoCfH5vtk40BkdYKBnwWDsJmkNxksEvy9g?e=VamBek
+   
 
 
 
